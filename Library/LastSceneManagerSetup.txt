@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ScreenEffect/ScreenEffect.unity
+  isLoaded: 1
+  isActive: 1

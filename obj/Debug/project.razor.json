@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/lz/Documents/source/unity/Shader/Assembly-CSharp.csproj",
+  "TargetFramework": "v2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
